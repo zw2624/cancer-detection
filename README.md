@@ -1,2 +1,2 @@
 # cancer-detection
-Detect cancer in gigapixel pathology images
+Course Project of COMSW4995 Applied Deep Learning, Columbia University
