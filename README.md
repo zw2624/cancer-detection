@@ -5,6 +5,10 @@ Zihe Wang, zw2624@columbia.edu
 
 **Objectives**
 ------------
+The main objective for this project is to develope a tool to assist physicians
+* Given a collection of training data, develop a model that outputs a heatmap showing regions of a biopsy image likely to contain cancer.
+* The output might act as an automatic second opinion
+* The tool could reduce misdiagnosis at little cost
 
 
 **Dataset**
