@@ -29,7 +29,9 @@ The following is a sample:
 **Model**
 ------------
 I tried two models as shown in paper[1]
+
 ![](./figures/model.PNG)
+
 For the transfer learning part, I used an Inception (V3) architecture.
 
 
