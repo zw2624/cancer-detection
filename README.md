@@ -1,2 +1,21 @@
-# cancer-detection
-Course Project of COMSW4995 Applied Deep Learning, Columbia University
+# Cancer Detection
+Applied Deep Learning Final Project
+
+=================================
+
+Zihe Wang, zw2624@columbia.edu
+
+**Objectives**
+------------
+
+
+**Dataset**
+------------
+
+
+**Model**
+------------
+
+**Result**
+------------
+
