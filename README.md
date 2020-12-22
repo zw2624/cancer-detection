@@ -14,7 +14,7 @@ The main objective for this project is to develope a tool to assist physicians
 **Dataset**
 ------------
 The dataset contains slides and tumor masks from the [CAMELYON16](https://camelyon17.grand-challenge.org/Data/) dataset. 
-![](./figures/data_format.PNG)
+![](./figures/data_format.PNG | width=400)
 In total, I used 18 slides: 13 for training, 2 for validation and 3 for testing.
 
 **Approach**
