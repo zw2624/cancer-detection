@@ -48,3 +48,7 @@ single input             |  two inputs (InceptionV3)         |  two inputs (VGG)
 
 **Reference**
 ------------
+
+[1] Liu, Y., Gadepalli, K., Norouzi, M., Dahl, G. E., Kohlberger, T., Boyko, A., ... & Hipp, J. D. (2017). Detecting cancer metastases on gigapixel pathology images. arXiv preprint arXiv:1703.02442.
+
+[2] Dataset: https://camelyon16.grand-challenge.org/Data/
