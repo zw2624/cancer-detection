@@ -42,7 +42,7 @@ The loss and accuracy of training and validation
 
 single input             |  two inputs (InceptionV3)         |  two inputs (VGG)
 :-------------------------:|:-------------------------: |:-------------------------: 
-![](./figures/single_model_eval.PNG)   |  ![](./figures/two_mode_val.PNG) | ![](./figures/two_model_vgg_val.PNG)
+![](./figures/single_model_eval.PNG)   |  ![](./figures/two_mode_eval.PNG) | ![](./figures/two_model_vgg_val.PNG)
 
 
 
